@@ -11,8 +11,7 @@
 .header__logo {
   width: 100px;
   object-fit: contain;
-  margin: 0 20px;
-  margin-top: 18px;
+  margin: 18px 20px 0;
 }
 
 .header__search {
